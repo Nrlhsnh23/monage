@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="@color/pink">
+
+    <LinearLayout
+        android:id="@+id/total_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginStart="123dp"
+            android:layout_marginTop="58dp"
+            android:text="Total Saldo"
+            android:textAllCaps="true"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/saldo"
+            android:layout_width="274dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="3dp"
+            android:layout_marginBottom="3dp"
+            android:layout_marginLeft="2.5dp"
+            android:layout_marginRight="0.5dp"
+            android:paddingLeft="23dp"
+            android:text="Rp.10.000.000"
+            android:textSize="32sp"
+            android:textStyle="bold"
+            android:textColor="@color/black"/>
+
+    </LinearLayout>
+<com.google.android.material.card.MaterialCardView
+    android:id="@+id/dashboard"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_below="@id/total_layout"
+    android:layout_marginTop="12dp"
+    android:layout_marginStart="10dp"
+    android:layout_marginEnd="10dp">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_weight="0.5"
+            android:gravity="center">
+            <TextView
+                android:id="@+id/pemasukan"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Rp.1.000.000"
+                android:textStyle="bold"
+                android:textSize="26sp"
+                android:textColor="@color/green"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="pemasukan"
+                android:textSize="14sp"
+                android:textAllCaps="true"
+                android:textStyle="bold"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_weight="0.5"
+            android:gravity="center">
+            <TextView
+                android:id="@+id/pengeluaran"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Rp.1.000.000"
+                android:textStyle="bold"
+                android:textSize="26sp"
+                android:textColor="@color/red"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="pengeluaran"
+                android:textSize="14sp"
+                android:textAllCaps="true"
+                android:textStyle="bold"/>
+        </LinearLayout>
+    </LinearLayout>
+</com.google.android.material.card.MaterialCardView>\
+    <TextView
+        android:id="@+id/recycleviewer_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="detail transaksi"
+        android:textStyle="bold"
+        android:textSize="17dp"
+        android:textAllCaps="true"
+        android:layout_below="@id/dashboard"
+        android:layout_marginTop="12dp"
+        android:layout_marginStart="18dp"/>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/recycleviewer_title"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="13dp"
+        tools:itemCount="3"
+        android:layout_marginBottom="-3dp" />
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/Btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="9dp"
+        android:layout_marginRight="9dp"
+        android:layout_marginBottom="8dp"
+        android:backgroundTint="@color/magenta"
+        android:contentDescription="@string/app_name"
+        android:src="@drawable/ic_add_tran"
+        app:borderWidth="0dp" />
+
+</RelativeLayout>
+
+
