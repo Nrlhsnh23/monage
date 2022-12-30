@@ -1,6 +1,6 @@
 package com.example.newmonage
 
-import java.io.FileDescriptor
+
 import java.io.Serializable
 
 data class Transaksi(
