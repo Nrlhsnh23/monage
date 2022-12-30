@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "com.example.newmonage.app-merged_res-29:/drawable_description_selector.xml.flat",
+        "source": "com.example.newmonage.app-main-31:/drawable/description_selector.xml"
+    },
+    {
+        "merged": "com.example.newmonage.app-merged_res-29:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.newmonage.app-main-31:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.newmonage.app-merged_res-29:/xml_backup_rules.xml.flat",
+        "source": "com.example.newmonage.app-main-31:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.newmonage.app-merged_res-29:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.newmonage.app-main-31:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.newmonage.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.newmonage.app-main-31:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.newmonage.app-merged_res-29:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.newmonage.app-main-31:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.newmonage.app-merged_res-29:/drawable_ic_money_focus.xml.flat",
+        "source": "com.example.newmonage.app-main-31:/drawable/ic_money_focus.xml"
+    },
+    {
+        "merged": "com.example.newmonage.app-merged_res-29:/drawable_calender_selector.xml.flat",
+        "source": "com.example.newmonage.app-main-31:/drawable/calender_selector.xml"
+    },
+    {
+        "merged": "com.example.newmonage.app-merged_res-29:/drawable_ic_add_tran.xml.flat",
+        "source": "com.example.newmonage.app-main-31:/drawable/ic_add_tran.xml"
+    },
+    {
+        "merged": "com.example.newmonage.app-merged_res-29:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.newmonage.app-main-31:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.newmonage.app-merged_res-29:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.newmonage.app-main-31:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.newmonage.app-merged_res-29:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.newmonage.app-main-31:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.newmonage.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.newmonage.app-main-31:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.newmonage.app-merged_res-29:/layout_transaksi_layout.xml.flat",
+        "source": "com.example.newmonage.app-main-31:/layout/transaksi_layout.xml"
+    },
+    {
+        "merged": "com.example.newmonage.app-merged_res-29:/layout_activity_add_transaksi.xml.flat",
+        "source": "com.example.newmonage.app-main-31:/layout/activity_add_transaksi.xml"
+    },
+    {
+        "merged": "com.example.newmonage.app-merged_res-29:/drawable_money_selector.xml.flat",
+        "source": "com.example.newmonage.app-main-31:/drawable/money_selector.xml"
+    },
+    {
+        "merged": "com.example.newmonage.app-merged_res-29:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.newmonage.app-main-31:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.newmonage.app-merged_res-29:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.newmonage.app-main-31:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.newmonage.app-merged_res-29:/drawable_ic_description.xml.flat",
+        "source": "com.example.newmonage.app-main-31:/drawable/ic_description.xml"
+    },
+    {
+        "merged": "com.example.newmonage.app-merged_res-29:/layout_activity_main.xml.flat",
+        "source": "com.example.newmonage.app-main-31:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.newmonage.app-merged_res-29:/drawable_ic_calendar.xml.flat",
+        "source": "com.example.newmonage.app-main-31:/drawable/ic_calendar.xml"
+    },
+    {
+        "merged": "com.example.newmonage.app-merged_res-29:/drawable_close_bg.xml.flat",
+        "source": "com.example.newmonage.app-main-31:/drawable/close_bg.xml"
+    },
+    {
+        "merged": "com.example.newmonage.app-merged_res-29:/drawable_ic_calendar_focus.xml.flat",
+        "source": "com.example.newmonage.app-main-31:/drawable/ic_calendar_focus.xml"
+    },
+    {
+        "merged": "com.example.newmonage.app-merged_res-29:/drawable_ic_description_focus.xml.flat",
+        "source": "com.example.newmonage.app-main-31:/drawable/ic_description_focus.xml"
+    },
+    {
+        "merged": "com.example.newmonage.app-merged_res-29:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.newmonage.app-main-31:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.newmonage.app-merged_res-29:/drawable_ic_money.xml.flat",
+        "source": "com.example.newmonage.app-main-31:/drawable/ic_money.xml"
+    },
+    {
+        "merged": "com.example.newmonage.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.newmonage.app-main-31:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.newmonage.app-merged_res-29:/drawable_ic_label.xml.flat",
+        "source": "com.example.newmonage.app-main-31:/drawable/ic_label.xml"
+    },
+    {
+        "merged": "com.example.newmonage.app-merged_res-29:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.newmonage.app-main-31:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.newmonage.app-merged_res-29:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.newmonage.app-main-31:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.newmonage.app-merged_res-29:/drawable_label_selector.xml.flat",
+        "source": "com.example.newmonage.app-main-31:/drawable/label_selector.xml"
+    },
+    {
+        "merged": "com.example.newmonage.app-merged_res-29:/layout_activity_update_transaksi.xml.flat",
+        "source": "com.example.newmonage.app-main-31:/layout/activity_update_transaksi.xml"
+    },
+    {
+        "merged": "com.example.newmonage.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.newmonage.app-main-31:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.newmonage.app-merged_res-29:/drawable_ic_label_focus.xml.flat",
+        "source": "com.example.newmonage.app-main-31:/drawable/ic_label_focus.xml"
+    },
+    {
+        "merged": "com.example.newmonage.app-merged_res-29:/drawable_ic_close.xml.flat",
+        "source": "com.example.newmonage.app-main-31:/drawable/ic_close.xml"
+    }
+]
